@@ -25,7 +25,13 @@ This application introduces six traditional Kutai foods:
 ## 🎯 Objectives
 - Introduce traditional Kutai food through immersive technology  
 - Support cultural preservation using Augmented Reality  
-- Provide interactive educational media  
+- Provide educational content including cooking recipes   
+
+---
+
+## 📱 Platform
+- Android (APK-based application)  
+- Not available for iOS  
 
 ---
 
@@ -33,20 +39,27 @@ This application introduces six traditional Kutai foods:
 - Unity (AR Development)  
 - Blender (3D Modeling)  
 - C#  
-- Android Platform  
+- Android SDK 
 
 ---
 
 ## ⚙ Development Method
-This project follows the Multimedia Development Life Cycle (MDLC) method.
+This project follows the Multimedia Development Life Cycle (MDLC) method, which includes:
+1. Concept  
+2. Design  
+3. Material Collecting  
+4. Assembly  
+5. Testing  
+6. Distribution  
 
 ---
 
 ## 📱 Features
 - Marker-based AR detection  
 - Real-time 3D food visualization  
-- Interactive information display  
-- Mobile performance optimization  
+- Interactive food information display  
+- Detailed cooking recipe for each food  
+- Mobile performance optimization 
 
 ---
 

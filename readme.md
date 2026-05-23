@@ -1,4 +1,4 @@
-\# AR Kutai Traditional Food 🍲📱
+# AR Kutai Traditional Food 🍲📱
 
 
 
@@ -10,7 +10,7 @@ A marker-based Augmented Reality (AR) mobile application developed to introduce 
 
 
 
-\## 📌 Project Overview
+## 📌 Project Overview
 
 This project was developed as an undergraduate thesis.  
 

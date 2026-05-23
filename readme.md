@@ -1,14 +1,6 @@
 # AR Kutai Traditional Food 🍲📱
 
-
-
-A marker-based Augmented Reality (AR) mobile application developed to introduce traditional Kutai food through interactive 3D visualization.
-
-
-
-\---
-
-
+A marker-based Augmented Reality (AR) mobile application developed to introduce traditional Kutai food through interactive 3D visualization
 
 ## 📌 Project Overview
 
@@ -17,8 +9,6 @@ This project was developed as an undergraduate thesis.
 The application uses marker-based AR technology to display 3D models of traditional Kutai food in an interactive Android environment.
 
 
-
-\---
 
 
 

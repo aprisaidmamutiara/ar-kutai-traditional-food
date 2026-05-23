@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="GenceRuan" size="8.000000 10.000000" />
+    <ImageTarget name="NasiBekepor" size="8.000000 10.000000" />
+    <ImageTarget name="SambalRaja" size="8.000000 10.000000" />
+    <ImageTarget name="RojakJukutKeli" size="8.000000 10.000000" />
+    <ImageTarget name="PulutNasiSangaCabeKeli" size="8.000000 10.000000" />
+    <ImageTarget name="GanganPisangSuahJukutSalai" size="8.000000 10.000000" />
+  </Tracking>
+</QCARConfig>

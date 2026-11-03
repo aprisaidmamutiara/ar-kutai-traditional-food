@@ -3,14 +3,13 @@
 A marker-based Augmented Reality (AR) mobile application developed to introduce traditional Kutai food through interactive 3D visualization
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9b727a3d-b35c-4f62-8232-5ea4e38a5382" width="100" alt="SPLASH" />
-  <img src="https://github.com/user-attachments/assets/387b2e7f-2c0c-4e09-9c6d-5892d1b683f4" width="100" alt="HOME SCREEN" />
-  <img src="https://github.com/user-attachments/assets/de4e325d-98ed-4c62-909b-f5915466731e" width="100" alt="BURGER BAR" />
-  <img src="https://github.com/user-attachments/assets/0df6ea52-3a89-4fee-ad13-d4524ba1aefd" width="100" alt="PANDUAN" />
-  <img src="https://github.com/user-attachments/assets/7c2235cc-003d-4881-aa4f-7eebc393ee9d" width="100" alt="TENTANG" />
-
-  <img src="https://github.com/user-attachments/assets/a21db872-46d9-4cea-b958-43941192acf1" width="100" alt="CARA MASAK" />
-  <img src="https://github.com/user-attachments/assets/beb3f77f-fe14-4e49-beb9-a1ba492da919" width="100" alt="INFO" />
+  <img src="https://github.com/user-attachments/assets/9b727a3d-b35c-4f62-8232-5ea4e38a5382" width="120" alt="SPLASH" />
+  <img src="https://github.com/user-attachments/assets/387b2e7f-2c0c-4e09-9c6d-5892d1b683f4" width="120" alt="HOME SCREEN" />
+  <img src="https://github.com/user-attachments/assets/de4e325d-98ed-4c62-909b-f5915466731e" width="120" alt="BURGER BAR" />
+  <img src="https://github.com/user-attachments/assets/0df6ea52-3a89-4fee-ad13-d4524ba1aefd" width="120" alt="PANDUAN" />
+  <img src="https://github.com/user-attachments/assets/7c2235cc-003d-4881-aa4f-7eebc393ee9d" width="120" alt="TENTANG" />
+  <img src="https://github.com/user-attachments/assets/a21db872-46d9-4cea-b958-43941192acf1" width="120" alt="CARA MASAK" />
+  <img src="https://github.com/user-attachments/assets/beb3f77f-fe14-4e49-beb9-a1ba492da919" width="120" alt="INFO" />
 </div>
 
 

@@ -8,7 +8,7 @@ A marker-based Augmented Reality (AR) mobile application developed to introduce 
   <img src="https://github.com/user-attachments/assets/de4e325d-98ed-4c62-909b-f5915466731e" width="100" alt="BURGER BAR" />
   <img src="https://github.com/user-attachments/assets/0df6ea52-3a89-4fee-ad13-d4524ba1aefd" width="100" alt="PANDUAN" />
   <img src="https://github.com/user-attachments/assets/7c2235cc-003d-4881-aa4f-7eebc393ee9d" width="100" alt="TENTANG" />
-  <br><br>
+
   <img src="https://github.com/user-attachments/assets/a21db872-46d9-4cea-b958-43941192acf1" width="100" alt="CARA MASAK" />
   <img src="https://github.com/user-attachments/assets/beb3f77f-fe14-4e49-beb9-a1ba492da919" width="100" alt="INFO" />
 </div>
